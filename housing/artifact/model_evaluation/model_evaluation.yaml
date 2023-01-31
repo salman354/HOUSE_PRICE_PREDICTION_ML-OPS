@@ -1,0 +1,7 @@
+best_model:
+  model_path: E:\INEURON\END TO END PROJECTS\HOUSE_PREDICTION\ML_PROJECT\housing\artifact\model_trainer\2023-01-31-11-02-43\trained_model\model.pkl
+history:
+  2023-01-31-10-58-50:
+    model_path: E:\INEURON\END TO END PROJECTS\HOUSE_PREDICTION\ML_PROJECT\housing\artifact\model_trainer\2023-01-31-10-56-19\trained_model\model.pkl
+  2023-01-31-11-02-43:
+    model_path: E:\INEURON\END TO END PROJECTS\HOUSE_PREDICTION\ML_PROJECT\housing\artifact\model_trainer\2023-01-31-10-58-50\trained_model\model.pkl
